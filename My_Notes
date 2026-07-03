@@ -1,0 +1,3 @@
+To Open API Page, use below commands:
+- For Interactive Page: uvicorn api:app --reload
+- For Normal Run: python api.py
